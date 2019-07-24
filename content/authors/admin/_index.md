@@ -15,7 +15,7 @@ role: PhD of Mechanical and Electronic Engineering
 # Organizations/Affiliations
 organizations:
 - name: Changchun Institute of Optics, Fine Mechanics and Physics
-  url: "ciomp@ciomp.ac.cn"
+  url: "guoruixuefriendly@163.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include System Control, Machine Learning ,Robotics and Imagery.
