@@ -18,7 +18,7 @@ organizations:
   url: "guoruixuefriendly@163.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include System Control, Machine Learning ,Robotics and Imagery.
+bio: to love, to experience
 
 interests:
 - System Control
@@ -39,16 +39,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: '#contact'  # For a direct email link, use "mailto:guoruixuefriendly@163.com".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://guoruixue163.github.io
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
